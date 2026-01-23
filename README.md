@@ -22,5 +22,3 @@
 
 ---
 [![views](https://komarev.com/ghpvc/?username=WiamELKhammal&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/WiamELKhammal)
-[<img align="right" height="20" alt="Codingame" src="https://img.shields.io/badge/Codingame-313131?logo=codingame&logoColor=#d16c06" hspace="1">](https://www.codingame.com/profile/0a0ea4aaeddda8f52a3b6a66976aa79e5734507)
-[<img align="right" height="20" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-313131?logo=LeetCode&logoColor=#d16c06" >](https://leetcode.com/u/Tweetyw/)
