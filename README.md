@@ -4,13 +4,17 @@
 - 🎓 Recent graduate with experience building full-stack applications.
 - 🚀 I solve complex problems and focus on improving user experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/wiam-el-khammal-84ab21257/)
-[![Mail](https://img.shields.io/badge/Mail-000?logo=gmail&logoColor=fff)](mailto:elkhammalwiam@gmail.com)
 
 *Beyond coding, I’m passionate about problem-solving, new technologies, and exploring anything that sparks curiosity.*
 
+Feel free to reach out if you want to discuss a project, share opportunities, or just say hi!
+
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wiam-el-khammal-84ab21257/)
-[![Status](https://img.shields.io/badge/Open%20to%20work-%16db00.svg?label=S/A&labelColor=545454&)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:elkhammalwiam@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](#)
+
+### My tech stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-000020?logo=html5)](#) [![CSS3](https://img.shields.io/badge/CSS3-000020?logo=css3)](#) [![Tailwind](https://img.shields.io/badge/Tailwind-000020?logo=tailwindcss)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-000020?logo=bootstrap)](#) [![JS](https://img.shields.io/badge/JavaScript-000020?logo=javascript)](#) [![TS](https://img.shields.io/badge/TypeScript-000020?logo=typescript)](#) [![React](https://img.shields.io/badge/React.js-000020?logo=react)](#) [![Vue](https://img.shields.io/badge/Vue.js-000020?logo=vuedotjs)](#) [![Next](https://img.shields.io/badge/Next.js-000020?logo=nextdotjs)](#) [![Angular](https://img.shields.io/badge/Angular-000020?logo=angular)](#)  [![AntD](https://img.shields.io/badge/Ant_Design-000020?logo=antdesign)](#)
 
