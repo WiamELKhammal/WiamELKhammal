@@ -1,7 +1,7 @@
 [<img align="right" width="400" alt="GitHub Metrics" src="/github-metrics.svg">](#)
 
 # About me
-### Full-Stack Developer | Problem Solver | Tech Enthusiast
+### Full-Stack Developer | Tech Enthusiast
 
 - 🛠️ **Expertise** in Java/Spring Boot and React/Next.js ecosystems.
 - 🚀 **Goal** building scalable, high-performance digital solutions.
