@@ -6,8 +6,7 @@
 - 🛠️ **Expertise** in Java/Spring Boot and React/Next.js ecosystems.
 - 🚀 **Goal** building scalable, high-performance digital solutions.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wiam-el-khammal-84ab21257/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:elkhammalwiam@gmail.com)
+
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](#)
 
 ---
